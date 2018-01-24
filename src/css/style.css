@@ -874,18 +874,18 @@ span.ttt {
     width: 28%;
 }
 .feedback-grids {
-    margin: 2em auto 0;
-    width: 55%;
+    margin: 10px auto 0;
+    width: 85%;
 }
 .feedback-img img{
-	width:100%;
+	width:70%;
 }
 .feedback-info {
     margin: 1em !important;
 }
 .feedback-img-info{
     float: left;
-    width: 65%;
+    width: 69%;
     margin-left: .5em;
 }
 .feedback-img-info h5 {
